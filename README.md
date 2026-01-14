@@ -1,5 +1,61 @@
 # 💫 About Me:
-so i am a 3rd year B.Tech student pursuing in electronics and communication  .<br>i am interested in  IOT , Robotics automation , Embedded system and mainly in PCB design.<br>i would love to collaborate  on PCB design and any embedded or iot project.<br>i am currently learning industry level robotics with industry level embedded projects
+👋 Hi, I'm Jyotirmoy Deka
+
+I'm a 3rd-year B.Tech student pursuing Electronics and Communication Engineering with a strong passion for IoT, Robotics Automation, Embedded Systems, and PCB Design. I enjoy building real-world, industry-level embedded and robotics projects and continuously improving my hardware–software integration skills.
+
+🔧 Technical Interests
+
+Embedded Systems Development
+
+IoT System Design
+
+Robotics & Automation
+
+PCB Design (Schematic, Layout & Fabrication Ready Boards)
+
+Sensor Integration & Motor Control
+
+Custom Hardware Prototyping
+
+🚀 What I Do
+
+Design and develop industry-level robotics projects
+
+Build custom PCBs for embedded and IoT applications
+
+Work with microcontrollers like STM32, ESP32, Arduino
+
+Integrate sensors, motor drivers, communication modules
+
+Develop firmware for real-time control and automation
+
+🧠 Currently Learning
+
+Industry-grade robotics system design
+
+Advanced embedded firmware development
+
+Hardware optimization and power management
+
+Scalable IoT architectures
+
+Professional PCB design workflow
+
+🤝 Open to Collaborations
+
+I'm always open to collaborating on:
+
+PCB Design Projects
+
+Embedded System Development
+
+Robotics Automation Projects
+
+IoT Product Prototypes
+
+Hardware Startups & R&D Work
+
+If you're working on an exciting hardware or automation project, feel free to connect!
 
 
 ## 🌐 Socials:
